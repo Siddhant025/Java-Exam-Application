@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0229359-0f89-4c39-9b07-e8fa03eb479a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UViHDg4bvSgykGX2uDU9OXpEip" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Exam_GUI">
+    <configuration name="Exam_GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_GUI" />
+      <module name="Exam Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FIB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIB" />
+      <module name="Exam Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MCQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MCQ" />
+      <module name="Exam Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QPaper" />
+      <module name="Exam Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="True_False" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="True_False" />
+      <module name="Exam Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exam_GUI" />
+        <item itemvalue="Application.QPaper" />
+        <item itemvalue="Application.FIB" />
+        <item itemvalue="Application.True_False" />
+        <item itemvalue="Application.MCQ" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0229359-0f89-4c39-9b07-e8fa03eb479a" name="Default Changelist" comment="" />
+      <created>1575448073101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575448073101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1537" height="164" key="GridCell.Tab.0.bottom" timestamp="1575785912966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575785912966" />
+    <state width="1537" height="164" key="GridCell.Tab.0.center" timestamp="1575785912966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575785912966" />
+    <state width="1537" height="164" key="GridCell.Tab.0.left" timestamp="1575785912966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575785912966" />
+    <state width="1537" height="164" key="GridCell.Tab.0.right" timestamp="1575785912966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575785912966" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1575455987750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575455987750" />
+    <state x="465" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1576764677895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576764677895" />
+  </component>
+</project>
